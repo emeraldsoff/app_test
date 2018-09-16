@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "319000513932",
+    "firebase_url": "https://datakeeper-dde36.firebaseio.com",
+    "project_id": "datakeeper-dde36",
+    "storage_bucket": "datakeeper-dde36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319000513932:android:b65b4a16ae70550f",
+        "android_client_info": {
+          "package_name": "inc.frontlooksoftwares.app_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319000513932-48iq1qmp3j8lovth3emubhd3j7890mht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inc.frontlooksoftwares.app_test",
+            "certificate_hash": "b2b5ad53251dd74891cbe49df663d6d33a6cb6b8"
+          }
+        },
+        {
+          "client_id": "319000513932-up3o65on8uggcirpsad3b51bf9sfppu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYLplYpKKSH1vhAlA3g8mkZu3OR-84fdE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319000513932-up3o65on8uggcirpsad3b51bf9sfppu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319000513932:android:1c5b327006325e47",
+        "android_client_info": {
+          "package_name": "inc.frontlooksoftwares.datakeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319000513932-rc2hn11hi75v15obpqmfig7f8g58tisp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inc.frontlooksoftwares.datakeeper",
+            "certificate_hash": "b2b5ad53251dd74891cbe49df663d6d33a6cb6b8"
+          }
+        },
+        {
+          "client_id": "319000513932-2r3eb90qens099e4qu4fmp2tr7oc2cdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inc.frontlooksoftwares.datakeeper",
+            "certificate_hash": "a7bdf16adbe533abfd05aea6d4d5aeafb19cb3b5"
+          }
+        },
+        {
+          "client_id": "319000513932-up3o65on8uggcirpsad3b51bf9sfppu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYLplYpKKSH1vhAlA3g8mkZu3OR-84fdE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319000513932-up3o65on8uggcirpsad3b51bf9sfppu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

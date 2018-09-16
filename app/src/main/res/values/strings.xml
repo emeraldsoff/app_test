@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">DataKeeper</string>
+    <string name="app_name_full">FrontLook DataKeeper</string>
+
+    <string name="ok">OK</string>
+    <string name="submit">SUBMIT</string>
+    <string name="signup_login">OR USE</string>
+    <string name="data_keeper">LogIn/SignUp</string>
+    <string name="frontlook">FrontLook</string>
+    <string name="enter_10_digit_mobile_number">Enter 10 Digit Mobile Number</string>
+    <string name="signup_login_using_google_facebook">null</string>
+    <string name="enter_code">Enter Code</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="country_code_your_mobile_number">Country Code+Your Mobile Number</string>
+    <string name="instruction1">If Your Country Code Is "091" Then Add Your Phone Number As "+91" Followed By Your Mobile Number</string>
+    <string name="instant_validation">Instant Validated</string>
+
+    <!--Facebook strings-->
+    <string name="facebook_app_id">[APP_ID]</string>
+    <string name="fb_login_protocol_scheme">fb[APP_ID]</string>
+    <string name="sign_in_using_mobile_number">Sign in Using Mobile Number</string>
+    <string name="enter_your_phone_number_to_sign_in">Enter Your Phone Number To Sign In</string>
+    <string name="select_country_code">Select Country Code</string>
+    <string name="enter_country_code">Enter Country Code</string>
+    <string name="add_new_client">Add New Client</string>
+    <string name="secondary_mobile_number">Secondary Mobile Number</string>
+    <string name="mobile_number">Mobile Number</string>
+
+    <!--&lt;!&ndash; TODO: Remove or change this placeholder text &ndash;&gt;-->
+    <!--<string name="hello_blank_fragment">Hello blank fragment</string>-->
+
+
+    <!--&lt;!&ndash;Sliding Drawer&ndash;&gt;-->
+    <!--<string name="navigation_drawer_open">Open navigation drawer</string>-->
+    <!--<string name="navigation_drawer_close">Close navigation drawer</string>-->
+    <!--<string name="openDrawer">open_drawer</string>-->
+    <!--<string name="closeDrawer">close_drawer</string>-->
+
+    <!--&lt;!&ndash; Navigation Drawer menu labels &ndash;&gt;-->
+    <!--<string name="nav_home">Home</string>-->
+    <!--<string name="addclient">Add New Clients</string>-->
+    <!--<string name="editdelclient">Edit/Delete Client</string>-->
+    <!--<string name="show_client">Search Client</string>-->
+    <!--<string name="nav_settings">Settings</string>-->
+    <!--<string name="nav_about_us">About Us</string>-->
+
+    <!--&lt;!&ndash; Toolbar titles when navigation menu item is selected &ndash;&gt;-->
+    <!--<string-array name="nav_item_activity_titles">-->
+    <!--<item>Home</item>-->
+    <!--<item>Add New Clients</item>-->
+    <!--<item>Edit/Delete Client</item>-->
+    <!--<item>Search Client</item>-->
+    <!--<item>Notifications</item>-->
+    <!--<item>Settings</item>-->
+    <!--</string-array>-->
+
+    <!--<string name="activity_title_about_us">About Us</string>-->
+    <!--<string name="activity_title_privacy_policy">Privacy Policy</string>-->
+    <!--<string name="action_clear_all">Clear All</string>-->
+    <!--<string name="action_logout">Logout</string>-->
+    <!--<string name="action_mark_all_read">Mark All as Read</string>-->
+    <!--<string name="privacy_policy">Privacy Policy</string>-->
+
+</resources>
